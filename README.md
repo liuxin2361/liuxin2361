@@ -2,7 +2,7 @@
 
 ### XinXinXin
 
-#### 我是一名后端工程师，同时也从事过前端开发，两者都在持续学习中，正在努力成为一名更好的程序员。💪  
+#### I am a backend engineer and have also worked on front-end development. I am still learning and working hard to become a better programmer. 💪
 
 
 [![Github Stars](https://img.shields.io/github/stars/liuxin2361?style=for-the-badge&color=2da44e&label=Github%20Star&logo=github)](https://github.com/liuxin2361)
