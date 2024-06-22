@@ -7,6 +7,7 @@
 
 [![Github Stars](https://img.shields.io/github/stars/liuxin2361?style=for-the-badge&color=2da44e&label=Github%20Star&logo=github)](https://github.com/liuxin2361)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/liuxin2361)
+[![Static Badge](https://img.shields.io/badge/Blog-XinXinXin-green?style=for-the-badge&logo=Blog&logoColor=white)](https://nextjs-blog-one-zeta-41.vercel.app/)
 
 
 #### I LIKE THIS :point_down:  
